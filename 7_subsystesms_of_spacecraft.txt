@@ -1,0 +1,9 @@
+ Here are seven common subsystems found in spacecraft:
+
+Structure Subsystem: This provides overall mechanical integrity for the spacecraft. It ensures that all components are supported and can withstand handling, launch loads, and flight conditions. The spacecraft bus, which houses various modules, is a major part of the structure subsystem1.
+Thermal Control Subsystem: Responsible for managing the spacecraft’s temperature. It includes radiators, insulation, and heaters to maintain optimal operating conditions.
+Power Subsystem: Generates and distributes electrical power. Solar panels or radioisotope thermoelectric generators (RTGs) are commonly used for power generation.
+Attitude and Articulation Control Subsystem (ACS): Maintains the spacecraft’s orientation (attitude) and allows it to change position (articulation). Reaction wheels, thrusters, and gyroscopes are part of this subsystem.
+Data Handling Subsystem: Manages data flow within the spacecraft. It includes onboard computers, memory, and communication interfaces.
+Telecommunications Subsystem: Handles communication between the spacecraft and ground stations. Antennas, transmitters, and receivers are key components.
+Propulsion Subsystem: Provides thrust for maneuvers and orbit adjustments. Propulsion systems can use chemical rockets, ion thrusters, or other technologies.

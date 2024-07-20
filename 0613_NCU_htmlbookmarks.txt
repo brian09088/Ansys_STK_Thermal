@@ -1,0 +1,3 @@
+https://help.agi.com/stk/12.4.0/index.htm#stk/ui-singlecs.htm
+https://help.agi.com/stk/12.4.0/index.htm#training/Day1Overview.htm?TocPath=Training%257CLevel%25201%2520-%2520Beginner%2520Training%257C_____0
+https://www.ansys.com/products/missions/ansys-stk

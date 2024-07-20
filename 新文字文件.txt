@@ -1,0 +1,17 @@
+STK satellite database 
+
+satellite 3558 SPL NCU
+
+ZARYA local database
+Inclination 跟赤道equator傾角
+不同於發射角
+Eccentricity 代表橢圓參數，0.4軌道會與地球相割，0代表正圓
+RAAN 軌道面傾斜角度
+
+7個sub systems of satellite / spacecraft 
+Structure/ thermals 
+power
+
+Gpredict-INSPIRESAT衛星任務作業中心
+NCU CAPE 太空中心
+UHF antenna, not as ka/ku band
